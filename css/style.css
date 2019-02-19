@@ -1,0 +1,10 @@
+html,body {
+	width: 100%;
+	height: 100%;
+	padding-bottom: 0;
+}
+.gif {
+	width: 100%;
+	height: 99.6%;
+	transform: all; 
+}
